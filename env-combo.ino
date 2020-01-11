@@ -2,7 +2,7 @@
 
 #include <stdin.h>
 #include "SparkFunMBE280.h"
-#inclide "Wire.h"
+#include "Wire.h"
 #include "SPI.h"
 
 BME280 sensor;
